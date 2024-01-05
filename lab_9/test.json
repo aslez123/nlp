@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "question": "Czy żołnierz, który dopuszcza się czynnej napaści na przełożonego podlega karze pozbawienia wolności?",
+      "answers": {
+        "text": "Tak, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3.",
+        "answer_start": []
+      },
+      "context": "Art. 345. § 1. Żołnierz, który dopuszcza się czynnej napaści na przełożonego, podlega karze aresztu wojskowego albo pozbawienia wolności do lat 3. § 2. Jeżeli sprawca dopuszcza się czynnej napaści w związku z pełnieniem przez przełożonego obowiązków służbowych albo wspólnie z innymi żołnierzami lub w obecności zebranych żołnierzy, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. § 3. Jeżeli sprawca czynu określonego w § 1 lub 2 używa broni, noża lub innego podobnie niebezpiecznego przedmiotu, podlega karze pozbawienia wolności od roku do lat 10. § 4. Karze przewidzianej w § 3 podlega sprawca czynu określonego w § 1 lub 2, jeżeli jego następstwem jest skutek określony w art. 156 lub 157 § 1.",
+      "title": "Ustawa z dnia 6 czerwca 1997 r. Kodeks karny CZĘŚĆ OGÓLNA Rozdział I Zasady odpowiedzialności karnej"
+    },
+    {
+      "id": "1",
+      "question": "Z ilu osób składa się komisja przetargowa?",
+      "answers": {
+        "text": "Komisja przetargowa składa się z co najmniej trzech osób.",
+        "answer_start": []
+      },
+      "context": "Art. 21. 1. Członków komisji przetargowej powołuje i odwołuje kierownik zamawiającego. 2. Komisja przetargowa składa się z co najmniej trzech osób. 3. Kierownik zamawiającego określa organizację, skład, tryb pracy oraz zakres obowiązków członków komisji przetargowej, mając na celu zapewnienie sprawności jej działania, indywidualizacji odpowiedzialności jej członków za wykonywane czynności oraz przejrzystości jej prac. 4. Jeżeli dokonanie określonych czynności związanych z przygotowaniem i przeprowadzeniem postępowania o udzielenie zamówienia wymaga wiadomości specjalnych, kierownik zamawiającego, z własnej inicjatywy lub na wniosek komisji przetargowej, może powołać biegłych. Przepis art. 17 stosuje się.",
+      "title": "Ustawa z dnia 29 stycznia 2004 r. Prawo zamówień publicznych Dział I Przepisy ogólne Rozdział 1 Przedmiot regulacji"
+    },
+    {
+      "id": "2",
+      "question": "Do jakiej wysokości za zobowiązania spółki odpowiada komandytariusz?",
+      "answers": {
+        "text": "Komandytariusz odpowiada za zobowiązania spółki wobec jej wierzycieli tylko do wysokości sumy komandytowej.",
+        "answer_start": []
+      },
+      "context": "Art. 111. Komandytariusz odpowiada za zobowiązania spółki wobec jej wierzycieli tylko do wysokości sumy komandytowej.",
+      "title": "Ustawa z dnia 15 września 2000 r. Kodeks spółek handlowych Tytuł I Przepisy ogólne Dział I Przepisy wspólne"
+    },
+    {
+      "id": "3",
+      "question": "Kiedy ustala się wartość majątku obrotowego, który stracił swoją przydatność?",
+      "answers": {
+        "text": "Wartość rzeczowych składników majątku obrotowego, które utraciły swoje cechy użytkowe lub przydatność ustala się nie później niż na dzień bilansowy w cenach sprzedaży netto możliwych do uzyskania",
+        "answer_start": []
+      },
+      "context": "Art. 35. 1. Wartość rzeczowych składników majątku obrotowego, które utraciły swoje cechy użytkowe lub przydatność, oraz odpadów ustala się nie później niż na dzień bilansowy w cenach sprzedaży netto możliwych do uzyskania. 2. Wartość produktów gotowych i towarów, z wyjątkiem towarów używanych znajdujących się w punktach sprzedaży oraz towarów przewidzianych do wieloletniej sprzedaży, zmniejsza się stopniowo, uwzględniając utratę ich wartości rynkowej, przez okres nie dłuższy niż 5 lat, poczynając od roku obrotowego następującego po roku, w którym je zakupiono lub wytworzono. 3. Odpisy aktualizujące: 1) wartość rzeczowych składników majątku obrotowego, o których mowa w ust. 1 i 2, oraz wynikające z wyceny według cen sprzedaży netto zamiast według cen nabycia (zakupu) lub kosztów wytworzenia - zwiększają pozostałe koszty operacyjne, 2) wartość udziałów w innych jednostkach oraz długoterminowych papierów wartościowych (lokat) - obciążają koszty operacji finansowych; jeżeli w wyniku wzrostu kursów giełdowych ceny sprzedaży netto długoterminowych papierów wartościowych (lokat) są wyższe od cen, po których je nabyto, to długoterminowe papiery wartościowe (lokaty) wykazuje się według cen ich nabycia, odnosząc różnice między ich dotychczasową, niższą wyceną a wartością według cen nabycia na przychody z operacji finansowych.",
+      "title": "Ustawa z dnia 29 września 1994 r. o rachunkowości Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "id": "4",
+      "question": "Jakiej karze podlega armator, który wykonuje rybołówstwo morskie w polskich obszarach morskich, z naruszeniem przepisów ustawy?",
+      "answers": {
+        "text": "Podlega karze pieniężnej do wysokości 1 000 000 złotych",
+        "answer_start": []
+      },
+      "context": "Art. 74. 1. Armator, który wykonuje rybołówstwo morskie w polskich obszarach morskich, z naruszeniem przepisów ustawy, podlega karze pieniężnej do wysokości 1 000 000 złotych. 2. Karze, o której mowa w ust. 1, podlega również armator statku o polskiej przynależności, który wykonuje rybołówstwo morskie poza polskimi obszarami morskimi, z naruszeniem przepisów ustawy lub postanowień umów międzynarodowych, których Rzeczpospolita Polska jest stroną. 3. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysokość kar pieniężnych za naruszenia, o których mowa w ust. 1 i 2, zróżnicowane w zależności od ich rodzaju i społecznej szkodliwości.",
+      "title": "Ustawa z dnia 6 września 2001 r. o rybołówstwie morskim Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "id": "5",
+      "question": "Kogo zwalnia się od akcyzy według zasady wzajemności?",
+      "answers": {
+        "text": "Według zasady wzajemności z akcyzy zwalnia się instytucje Wspólnot Europejskich, organizacje międzynarodowe, przedstawicielstwa dyplomatyczne, urzędy konsularne oraz członków personelu tych przedstawicielstw i urzędów, a także innych osób zrównanych z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych, jeżeli nie są obywatelami polskimi i nie mają stałego miejsca pobytu na terytorium kraju.",
+        "answer_start": []
+      },
+      "context": "Art. 31. 1. Zwalnia się od akcyzy, jeżeli wynika to z porozumień międzynarodowych, lub zasady wzajemności, czynności podlegające opodatkowaniu akcyzą wobec instytucji Wspólnot Europejskich oraz wobec: organizacji międzynarodowych, przedstawicielstw dyplomatycznych, urzędów konsularnych oraz członków personelu tych przedstawicielstw i urzędów, a także innych osób zrównanych z nimi na podstawie ustaw, umów lub zwyczajów międzynarodowych, jeżeli nie są obywatelami polskimi i nie mają stałego miejsca pobytu na terytorium kraju. 2. Zwalnia się od akcyzy, jeżeli wynika to z porozumień międzynarodowych, czynności podlegające opodatkowaniu akcyzą, których przedmiotem są wyroby akcyzowe przeznaczone dla sił zbrojnych Państw-Stron Traktatu Północnoatlantyckiego, sił zbrojnych uczestniczących w Partnerstwie dla Pokoju oraz dla Kwatery Głównej Wielonarodowego Korpusu Północno-Wschodniego i członków jej personelu oraz dowództw sojuszniczych, w szczególności Centrum Szkolenia Sił Połączonych i członków ich personelu. 3. Zwolnień, o których mowa w ust. 2, nie stosuje się do Sił Zbrojnych Rzeczypospolitej Polskiej. 4. Zwolnienia, o których mowa w ust. 1 i 2, mogą być realizowane również przez zwrot zapłaconej kwoty akcyzy dokonywany przez wyznaczonego naczelnika urzędu celnego. 5. W przypadku zwolnienia od akcyzy realizowanego przez zwrot zapłaconej kwoty akcyzy, wyznaczony naczelnik urzędu celnego określa, w drodze decyzji, wysokość kwoty zwrotu akcyzy. 6. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia: 1) określi szczegółowy zakres oraz warunki i tryb stosowania zwolnień od akcyzy, o których mowa w ust. 1 i 2 , 2) wyznaczy naczelników urzędów celnych właściwych w sprawach zwrotu zapłaconej kwoty akcyzy – uwzględniając konieczność skutecznego funkcjonowania zwolnień od akcyzy, konieczność zapewnienia właściwej kontroli oraz konieczność zapewnienia przepływu informacji dotyczących wyrobów zwolnionych od akcyzy.",
+      "title": "Ustawa z dnia 6 grudnia 2008 r. o podatku akcyzowym[1]) Dział I Przepisy ogólne"
+    },
+    {
+      "id": "6",
+      "question": "Czy żołnierze przy wykonaniu czynności służbowej nie muszą się przedstawiać?",
+      "answers": {
+        "text": "Nie, żołnierze przed przystąpieniem do wykonania czynności służbowej są obowiązani przedstawić się.",
+        "answer_start": []
+      },
+      "context": "Art. 12. 1. Żołnierze Żandarmerii Wojskowej przed przystąpieniem do wykonania czynności służbowej są obowiązani przedstawić się, podając stopień wojskowy oraz imię i nazwisko, a ponadto na żądanie osoby, której czynność ta dotyczy, są obowiązani okazać legitymację żołnierza Żandarmerii Wojskowej w sposób umożliwiający odczytanie oraz zanotowanie serii i numeru legitymacji, a także danych osobowych żołnierza. 2. Przepis art. 11 ust. 2 stosuje się odpowiednio.",
+      "title": "Ustawa z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "id": "7",
+      "question": "Ile budżetów ma miasto na prawach powiatu?",
+      "answers": {
+        "text": "Miasto na prawach powiatu sporządza jeden budżet.",
+        "answer_start": []
+      },
+      "context": "Art. 85. 1. Miasto na prawach powiatu sporządza jeden budżet. 2. Uchwała budżetowa miasta na prawach powiatu określa poszczególne dochody z uwzględnieniem podziału według źródeł dochodów gmin, powiatów oraz rodzajów przewidzianych na zadania realizowane przez gminy i powiaty wydatków.",
+      "title": "Ustawa z dnia 13 października 1998 r. Przepisy wprowadzające ustawy reformujące administrację publiczną Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "id": "8",
+      "question": "Czy żołnierze Żandarmerii Wojskowej mogą uniemożliwiać ich identyfikację podczas wykonywania operacyjno-rozpoznawcze?",
+      "answers": {
+        "text": "Wykonując czynności operacyjno-rozpoznawcze, żołnierze Żandarmerii Wojskowej mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych.",
+        "answer_start": []
+      },
+      "context": "Art. 40. 1. Żandarmeria Wojskowa, wykonując czynności operacyjno-rozpoznawcze, zapewnia ochronę środków, form i metod ich wykonywania, zgromadzonych informacji oraz własnych obiektów i danych identyfikacyjnych pozwalających na ustalenie tożsamości żołnierzy Żandarmerii Wojskowej. 2. Wykonując czynności operacyjno-rozpoznawcze, żołnierze Żandarmerii Wojskowej mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych pozwalających na identyfikację oraz środków, którymi posługują się, wykonując te czynności. 3. Minister Obrony Narodowej określi, w drodze zarządzenia, szczegółowe zasady i tryb wydawania oraz posługiwania się i przechowywania dokumentów, o których mowa w ust. 2, z uwzględnieniem przepisów dotyczących odpowiednich dokumentów oraz przepisów o ochronie informacji niejawnych.",
+      "title": "Ustawa z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "id": "9",
+      "question": "W jakim przypadku policja może dokonać przeszukania pomieszczeń w domu?",
+      "answers": {
+        "text": "W celu znalezienia i zatrzymania przedmiotów podlegających oględzinom lub mogących stanowić dowód rzeczowy, jeżeli istnieją uzasadnione podstawy do przypuszczenia, że przedmioty te lub dowody tam się znajdują.",
+        "answer_start": []
+      },
+      "context": "Art. 44. §1. W celu znalezienia i zatrzymania przedmiotów podlegających oględzinom lub mogących stanowić dowód rzeczowy, Policja, a w toku czynności wyjaśniających również inne organy je prowadzące, mogą dokonać przeszukania pomieszczeń i innych miejsc, jeżeli istnieją uzasadnione podstawy do przypuszczenia, że przedmioty te lub dowody tam się znajdują. §2. Przepis § 1 stosuje się odpowiednio do przeszukania osoby, jej odzieży lub podręcznych przedmiotów. §3. Przeszukanie następuje na mocy postanowienia prokuratora lub sądu. §4. W wypadkach niecierpiących zwłoki, jeżeli postanowienie nie mogło być uprzednio wydane, można przeprowadzić przeszukanie bez takiego postanowienia, jednak organ dokonujący tej czynności zobowiązany jest następnie zwrócić się niezwłocznie do prokuratora o zatwierdzenie przeszukania. Na żądanie osoby, u której dokonano przeszukania, doręcza się jej w terminie 14 dni postanowienie w przedmiocie zatwierdzenia przeszukania. O prawie wystąpienia z takim żądaniem należy ją pouczyć. §5. Przy przeprowadzaniu przeszukania i zatrzymania przedmiotów stosuje się odpowiednio przepisy art. 217, 221- 234 i 236 Kodeksu postępowania karnego. Dział VI Środki przymusu Rozdział 8 Zatrzymanie",
+      "title": "Ustawa z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia Dział I Zasady ogólne"
+    }
+  ]
+}
